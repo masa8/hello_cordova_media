@@ -1,5 +1,5 @@
 #  Hello Cordova Media
-Simple library  for cordova-plugin-media
+Simple audio library  for cordova-plugin-media
 
 ## Feature
  play/stop audio file with button.
