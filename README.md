@@ -2,7 +2,7 @@
 Simple library  for cordova-plugin-media
 
 ## Feature
- play/stop feature with button.
+ play/stop audio file with button.
 
 ## library 
  hello_media/js/myaudio.js  
