@@ -5,12 +5,12 @@ Simple library  for cordova-plugin-media
  play/stop audio file with button.
 
 ## library 
- hello_media/js/myaudio.js  
- myAudio.play("path/to/sound/file", a_callback_when_finished);  
+ hello_media/www/js/myaudio.js  
+ myAudio.play("path/to/sound/file", a_callback_called_when_finished);  
  myAudio.stop();  
 
 ## Button sample
- hello_media/js/index.js  
+ hello_media/www/js/index.js  
  app.audioButton();  
 
 ## Settings
