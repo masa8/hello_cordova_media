@@ -1,5 +1,5 @@
 #  Hello Cordova Media
-simple library  for cordova-plugin-media
+Simple library  for cordova-plugin-media
 
 ## Feature
  play/stop feature with button.
