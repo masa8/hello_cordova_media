@@ -34,6 +34,11 @@ Simple library  for cordova-plugin-media
  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />  
  ```
 
+### cordova-plugin-media
+ https://github.com/apache/cordova-plugin-media
+
+### License
+MIT
 
 
 
