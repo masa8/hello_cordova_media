@@ -1,5 +1,17 @@
 #  Hello Cordova Media
-sample code for cordova-plugin-media
+simple library  for cordova-plugin-media
+
+## Feature
+ play/stop feature with button.
+
+## library 
+ hello_media/js/myaudio.js  
+ myAudio.play("path/to/sound/file", a_callback_when_finished);  
+ myAudio.stop();  
+
+## Button sample
+ hello_media/js/index.js  
+ app.audioButton();  
 
 ## Settings
  Add following tags in config.xml  
